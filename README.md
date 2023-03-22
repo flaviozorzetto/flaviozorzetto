@@ -4,8 +4,8 @@
 <div>
   <a href="https://github.com/flaviozorzetto">
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=flaviozorzetto&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviozorzetto&langs_count=16&theme=tokyonight&layout=compact"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=flaviozorzetto&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=flaviozorzetto&langs_count=16&theme=tokyonight&layout=compact"/>
 </p>
  <a/>
 </div>
